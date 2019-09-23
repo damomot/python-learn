@@ -21,7 +21,7 @@ body = {
     "__VIEWSTATE": "",
     "__VIEWSTATEGENERATOR":"FE27D343",
     "Editor$Edit$txbTitle":"python_caogao",
-    "Editor$Edit$EditorBody":"<p>这里111：http://www.cnblogs.com/yoyoketang/</p>",
+    "Editor$Edit$EditorBody":"<p>hello world,nice to meet you</p>",
     "Editor$Edit$Advanced$ckbPublished":"on",
     "Editor$Edit$Advanced$chkDisplayHomePage":"on",
     "Editor$Edit$Advanced$chkComments":"on",
